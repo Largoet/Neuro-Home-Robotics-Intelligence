@@ -72,7 +72,7 @@ basée sur une carte électronique plus ouverte et connectée, telle qu’un **R
 | 🖥️ **Écran** | affichage d’informations ou d’émotions |
 | ⚙️ **Moteurs et capteurs** | contrôle des déplacements et réactions |
 
-Ce **Leo 2.0** pourrait interagir avec **Atlas AI** (serveur local) et **Kinto-Cloud** (réseau domestique), tout en restant compréhensible et manipulable par un enfant.
+Ce **Leo 2.0** pourrait interagir avec **Atlas AI** (Pc herbegeant l'IA avec des composants puissants) et **Kinto-Cloud** (serveur), tout en restant compréhensible et manipulable par un enfant.
 
 ---
 
@@ -96,10 +96,9 @@ un environnement local où humains, robots et objets connectés partagent le mê
 
 | Élément | Rôle |
 |----------|------|
-| **Atlas AI** | cerveau central (serveur local, IA, logique) |
-| **Kinto-Cloud** | réseau domestique (connexion entre appareils) |
-| **Family Robotics** | ensemble des robots connectés (Leo, Neo, etc.) |
-| **Home Assistant** | gestion de la maison et des automatisations |
+| **Atlas AI** | cerveau central (IA) |
+| **Kinto-Cloud** | réseau domestique avec gestion de la maison et des automatisations (serveur local, home assistant) |
+| **Family Robotics** | ensemble des robots connectés (Leo, Neo, Reachy, etc.) |
 
 ---
 
@@ -107,26 +106,9 @@ un environnement local où humains, robots et objets connectés partagent le mê
 
 | Phase | Période estimée | Objectif principal | Description |
 |--------|------------------|--------------------|--------------|
-| **Phase 1 – Éveil & apprentissage** | 2024 → 2025 | Découverte de la robotique et de la programmation | Utilisation du LEGO Boost et des scripts Python pour comprendre la communication BLE, les moteurs et les actions séquentielles. |
-| **Phase 2 – Renaissance de Leo** | 2026 → 2027 | Transformer Leo en robot domestique utile | Nouvelle carte électronique (Wi-Fi, micro, HP, écran), intégration à Kinto-Cloud et au réseau Neuro-Home. |
-| **Phase 3 – Extension familiale** | 2027 → ... | Interconnexion avec les autres robots | Communication Leo ↔ Neo ↔ futurs compagnons via le réseau domestique et Home Assistant. |
+| **Phase 1 – Éveil & apprentissage** | 2025 → 2026 | Découverte de la robotique et de la programmation | Utilisation du LEGO Boost et des scripts Python pour comprendre la communication BLE, les moteurs et les actions séquentielles. |
+| **Phase 2 – Renaissance de Leo** | 2027 → 2028 | Transformer Leo en robot domestique utile | Nouvelle carte électronique (Wi-Fi, micro, HP, écran), intégration à Kinto-Cloud et au réseau Neuro-Home. |
+| **Phase 3 – Extension familiale** | 2028 → ... | Interconnexion avec les autres robots | Communication Leo ↔ Neo ↔ futurs compagnons via le réseau domestique et Home Assistant. |
 
 ---
 
-## 💬 **Philosophie**
-
-> Le but n’est pas d’entraîner une IA, mais de **comprendre, assembler et faire dialoguer** des composants intelligents déjà existants.  
-> L’apprentissage se fait ici du côté humain : curiosité, expérimentation et création partagée.  
-> L’IA viendra plus tard, non pas pour remplacer, mais pour **accompagner** et enrichir le projet.
-
----
-
-## ❤️ **Objectif final**
-
-Créer un robot **utile, éducatif et humain**,  
-capable d’interagir avec la maison, de répondre aux besoins du quotidien,  
-et de servir de passerelle entre l’apprentissage, la technologie et la créativité.  
-
-> *Leo n’est plus un jouet LEGO. C’est le premier compagnon d’un foyer intelligent en construction, où chaque robot deviendra un neurone du réseau Neuro-Home.*
-
----
