@@ -32,7 +32,7 @@ Le tout relié dans un écosystème **sécurisé, local et open-source**.
     └── Intent scripts (volets, lumières, etc.)
                │
                ▼
-         🧠 Atlas (gros PC GPU)
+         🧠 Atlas (PC GPU)
     ├── Ollama (Mistral / Mixtral)
     ├── Faster-Whisper (STT)
     ├── Piper (TTS)
